@@ -1,2 +1,5 @@
 # Blog
-Good Good Study, Day Day Up!
+--- ---
+## ES6学习笔记
+1. [ES6开发环境的搭建]()
+2. [新的声明方式]()
