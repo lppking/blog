@@ -22,7 +22,7 @@ babel会优先寻找.babelrc，如果找不到，才会去package.json中寻找b
 }
 ```
 更多的配置项可以查阅官方文档。
-####4. 编译文件
+#### 4. 编译文件
 完成上述步骤，我们就可以编译ES6语法的文件了。这里有一个需要注意的点，如果你是全局安装的babel-cli，那么你可以直接运行：
 ```
 babel src/index.js -o dist/index.js
@@ -31,7 +31,7 @@ babel src/index.js -o dist/index.js
 ```
 npx babel src/index.js -o dist/index.js
 ```
-####5. 设置编译脚本
+#### 5. 设置编译脚本
 在package.json中的scripts项中可以设置快捷脚本。scripts如下所示：
 ```
 "scripts": {
