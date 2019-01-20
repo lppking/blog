@@ -8,6 +8,11 @@
 ## 数据结构与算法
 1. [二叉排序树的前中后序遍历的非递归算法](https://github.com/lppking/Blog/blob/master/DSA/%E4%BA%8C%E5%8F%89%E6%8E%92%E5%BA%8F%E6%A0%91%E7%9A%84%E5%89%8D%E4%B8%AD%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86%E7%9A%84%E9%9D%9E%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95.md)
 --- ---
+## Vue源码学习
+1. [Vue源码目录设计](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/Vue%E6%BA%90%E7%A0%81%E7%9B%AE%E5%BD%95%E8%AE%BE%E8%AE%A1.md)
+2. [Vue源码构建](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/Vue%E6%BA%90%E7%A0%81%E6%9E%84%E5%BB%BA.md)
+3. [Vue是从哪里来的](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/Vue%E6%98%AF%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5%E7%9A%84.md)
+--- ---
 ## You-Dont-Know-JS
 1. [值](https://github.com/lppking/Blog/blob/master/KnowJS/%E5%80%BC.md)
 2. [类型](https://github.com/lppking/Blog/blob/master/KnowJS/%E7%B1%BB%E5%9E%8B.md)
