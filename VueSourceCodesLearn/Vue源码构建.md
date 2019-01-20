@@ -28,7 +28,6 @@ build(builds)
 ```
 这段代码的作用其实就是对不同的构建动作进行分发，结合config.js：
 ```
-```
 const builds = {
   // Runtime only (CommonJS). Used by bundlers e.g. Webpack & Browserify
   'web-runtime-cjs-dev': {
