@@ -1,6 +1,6 @@
 ## $mount实例挂载做了什么？
 --- ---
-接着前一部分[new Vue做了什么？]()，在将`vm.$options.el`传递给`vm.$mount()`方法后，`$mount`又做了哪些事。因为$mount方法的实现是和平台、构建方式相关的。所以在多个文件中都有对此方法的定义。为了能够详细了解Vue在**Compiler with Runtime**下的工作原理，我们选择一个Compiler版本的$mount实现。
+接着前一部分[new Vue做了什么？](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/new%20Vue%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88.md)，在将`vm.$options.el`传递给`vm.$mount()`方法后，`$mount`又做了哪些事。因为$mount方法的实现是和平台、构建方式相关的。所以在多个文件中都有对此方法的定义。为了能够详细了解Vue在**Compiler with Runtime**下的工作原理，我们选择一个Compiler版本的$mount实现。
 打开`src/platform/web/entry-runtime-with-compiler.js`文件，找到对`$mount`方法的定义部分：
 ```
 const mount = Vue.prototype.$mount

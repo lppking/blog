@@ -12,6 +12,8 @@
 1. [Vue源码目录设计](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/Vue%E6%BA%90%E7%A0%81%E7%9B%AE%E5%BD%95%E8%AE%BE%E8%AE%A1.md)
 2. [Vue源码构建](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/Vue%E6%BA%90%E7%A0%81%E6%9E%84%E5%BB%BA.md)
 3. [Vue是从哪里来的](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/Vue%E6%98%AF%E4%BB%8E%E5%93%AA%E9%87%8C%E6%9D%A5%E7%9A%84.md)
+4. [new Vue做了什么？](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/new%20Vue%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88.md)
+5. [$mount实例挂载做了什么？](https://github.com/lppking/Blog/blob/master/VueSourceCodesLearn/%24mount%E5%AE%9E%E4%BE%8B%E6%8C%82%E8%BD%BD%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88.md)
 --- ---
 ## You-Dont-Know-JS
 1. [值](https://github.com/lppking/Blog/blob/master/KnowJS/%E5%80%BC.md)
