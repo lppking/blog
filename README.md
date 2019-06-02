@@ -25,4 +25,5 @@
 2. [类型](https://github.com/lppking/Blog/blob/master/KnowJS/%E7%B1%BB%E5%9E%8B.md)
 3. [原生函数](https://github.com/lppking/Blog/blob/master/KnowJS/%E5%8E%9F%E7%94%9F%E5%87%BD%E6%95%B0.md)
 4. [强制类型转换](https://github.com/lppking/Blog/blob/master/KnowJS/%E5%BC%BA%E5%88%B6%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+5. [JS模拟类的前世今生](https://github.com/lppking/Blog/blob/master/KnowJS/js%E6%A8%A1%E6%8B%9F%E7%B1%BB%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F.md)
 
