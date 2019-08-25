@@ -6,6 +6,9 @@
 3. [20190726](https://github.com/lppking/Blog/blob/dev/WeeklySummary/20190726.md)
 4. [20190719](https://github.com/lppking/Blog/blob/dev/WeeklySummary/20190719.md)
 
+## 翻译
+1. [【译】JS结构的五种有趣用法](https://github.com/lppking/Blog/blob/dev/Translate/5-interesting-uses-javascript-destructuring.md)
+
 ## HTML
 1. [我们为什么要用语义标签](https://github.com/lppking/Blog/blob/master/HTML/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8%E8%AF%AD%E4%B9%89%E6%A0%87%E7%AD%BE.md)
 
