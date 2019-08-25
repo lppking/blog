@@ -1,6 +1,7 @@
 # 【译】JS结构的五种有趣用法
 
 >原文标题：5 Interesting Uses of JavaScript Destructuring
+
 >原文链接：https://dmitripavlutin.com/5-interesting-uses-javascript-destructuring/
 
 定期回顾我写的JS代码，我发现结构运算无处不在。
