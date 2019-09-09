@@ -201,6 +201,7 @@ const styles = StyleSheet.create({
 > RecyclerListView uses "cell recycling" to reuse views that are no longer visible to render items instead of creating new view objects. Creation of objects is very expensive and comes with a memory overhead which means as you scroll through the list the memory footprint keeps going up. Releasing invisible items off memory is another technique but that leads to creation of even more objects and lot of garbage collections. Recycling is the best way to render infinite lists that does not compromise performance or memory efficiency.
 
 大意就是他们使用了一种被称作**cell recycling**单元格回收的概念来替代传统的**销毁不可见项对象，新增可见项创建新视图对象的方式。**因为创建对象是一个非常消耗性能的操作，这就意味着你在快速滚动列表的时候内存消耗会大量增加。回收不可见元素的视图对象在作者看来是一个浪费的行为，不断的销毁导致必须不断的创建，所以从简介大致能了解到作者是通过复用已有的视图对象来达到减少新建和销毁操作来提高性能的。有兴趣的同学可以[点击这里](https://github.com/Flipkart/recyclerlistview)查看详细内容。
+
 使用`recyclerlistview`组件的核心是理解`dataProvider`、`layoutProvider`以及`rowRenderer`这三个必要属性。
 ## 3.1 dataProvider
 dataProvider包含两个部分：
